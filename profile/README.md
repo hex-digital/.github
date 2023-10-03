@@ -1,6 +1,10 @@
 # Hex Digital
 [https://www.hexdigital.com](https://www.hexdigital.com)
 
+## Guidelines, Conduct, Best Practices
+
+- [Hex Coding Guidelines](https://github.com/hex-digital/guidelines)
+
 ## Starter Kits
 
 - [Next + Sanity](https://github.com/hex-digital/starter-next-app-sanity)
