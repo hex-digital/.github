@@ -7,6 +7,7 @@
 
 ## Starter Kits
 
+- [Next + Sanity Monorepo](https://github.com/hex-digital/starter-sanity-next-monorepo-modular)
 - [Next + Sanity](https://github.com/hex-digital/starter-next-app-sanity)
 - [Next + React Native Monorepo](https://github.com/hex-digital/starter-mono-hybrid-app-web-nuxt)
 - [Nuxt](https://github.com/hex-digital/starter-nuxt3-new)
