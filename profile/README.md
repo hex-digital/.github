@@ -12,7 +12,8 @@
 - [Next + React Native Monorepo](https://github.com/hex-digital/starter-mono-hybrid-app-web-nuxt)
 - [Nuxt](https://github.com/hex-digital/starter-nuxt3-new)
 - [Nuxt + Ionic + Capacitor](https://github.com/hex-digital/starter-hybrid-app-nuxt)
-- [Bloom (WordPress)](https://github.com/hex-digital/starter-wordpress-bloom)
+- [Bloom (WordPress)](https://github.com/hex-digital/bloom-modules)
+- - [Bloom Modules (WordPress)](https://github.com/hex-digital/bloom-modules)
 - [Laravel](https://github.com/hex-digital/api-starter-kit)
 
 ## Config
